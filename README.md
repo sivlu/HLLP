@@ -3,8 +3,11 @@
 Team Members
 -----------------
 Xinyan Han: xhan@g.harvard.edu
+
 Siv Lu: blu@g.harvard.edu
+
 Chongmo Liu: chongmoliu@g.harvard.edu
+
 Feifei Peng: fpeng01@g.harvard.edu
 
 -----------------
@@ -28,5 +31,6 @@ File Organization
 Links
 ---------------
 video: https://www.youtube.com/watch?v=GwJtyF__u5o
+
 website: https://cs109hllp.wordpress.com/
 
