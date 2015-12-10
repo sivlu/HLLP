@@ -22,4 +22,11 @@ File Organization
 
 "Step4_Regression" folder contains the ipython notebook and correponding datasets used in running linear regression.
 
-"Step5_Classification" folder contains the ipython notebook and correponding datasets used in creating classifiers. 
+"Step5_Classification" folder contains the ipython notebook and correponding datasets used in creating classifiers.
+
+---------------
+Links
+---------------
+video: https://www.youtube.com/watch?v=GwJtyF__u5o
+website: https://cs109hllp.wordpress.com/
+
